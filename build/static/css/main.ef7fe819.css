@@ -1,0 +1,2 @@
+.box-cover{display:flex;flex-wrap:wrap;justify-content:center}.box-wrapper{border-radius:10px;box-shadow:5px 5px 10px gray;margin:20px;width:250px}.box-info{padding:10px}.box-wrapper img{border-radius:10px;height:200px;object-fit:cover;width:100%}.description,.price,.rating,.title{margin:5px 0}.price{color:crimson}.form-parent input{display:block;margin:10px 0;padding:10px;width:50%}.box-wrapper{position:relative}.box-wrapper .close{bottom:5%;position:absolute;right:10%}
+/*# sourceMappingURL=main.ef7fe819.css.map*/
